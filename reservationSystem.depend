@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502100707 source:c:\users\ritik jain\desktop\reservationsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+
